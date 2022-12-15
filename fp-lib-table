@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "ir_reading_head")(type "KiCad")(uri "${KIPRJMOD}/ir_reading_head.pretty")(options "")(descr ""))
+)
